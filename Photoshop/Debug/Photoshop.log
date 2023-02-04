@@ -1,0 +1,5 @@
+﻿Test.obj : error LNK2019: unresolved external symbol __imp__PyRun_SimpleStringFlags referenced in function _main
+Test.obj : error LNK2019: unresolved external symbol __imp__Py_Initialize referenced in function _main
+C:\Users\User\AppData\Local\Programs\Python\Python39\libs\python39.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\User\AppData\Local\Programs\Python\Python39\libs\python39_d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\User\source\repos\Photoshop\Debug\Photoshop.exe : fatal error LNK1120: 2 unresolved externals
